@@ -9,4 +9,19 @@ In This Repository We will make Basic CRUD API by Code Making
 | PATCH | http://localhost:5000/user/9b713f21-711d-424d-8158-e3b86530acd1 | 	Update an existing user by there uuid (id :- 9b713f21-711d-424d-8158-e3b86530acd1). |
 | Delete | http://localhost:5000/user/461f3b8f-2265-4c5b-baf7-2d70bd9e78f7 | Delete an existing user's by there uuid (id :- 461f3b8f-2265-4c5b-baf7-2d70bd9e78f7). |
 
+// Quick Start
+<details>
 
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
