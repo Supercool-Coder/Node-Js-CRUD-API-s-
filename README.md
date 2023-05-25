@@ -17,11 +17,11 @@ In This Repository We will make Basic CRUD API by Code Making
 
 Clone the repo.
 
+
+
+```
 https://github.com/zagaris/express-api.git
 cd express-api
-
-```ruby
-   puts "Hello World"
 ```
 
 </details>
