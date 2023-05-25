@@ -20,7 +20,7 @@ Clone the repo.
 
 
 ```
-https://github.com/zagaris/express-api.git
+https://github.com/Supercool-Coder/Node-Js-CRUD-API-s-.git
 cd express-api
 ```
 
